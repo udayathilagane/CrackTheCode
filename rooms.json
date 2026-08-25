@@ -1,0 +1,88 @@
+{
+ "NLGSAX": {
+  "secret_number": "13367",
+  "guesses": [
+   {
+    "player": "Test",
+    "guess": "00000",
+    "digit_matches": 0,
+    "position_matches": 0
+   },
+   {
+    "player": "Test",
+    "guess": "11111",
+    "digit_matches": 1,
+    "position_matches": 1
+   },
+   {
+    "player": "Test",
+    "guess": "99999",
+    "digit_matches": 0,
+    "position_matches": 0
+   },
+   {
+    "player": "Test",
+    "guess": "15555",
+    "digit_matches": 1,
+    "position_matches": 1
+   },
+   {
+    "player": "Test",
+    "guess": "15666",
+    "digit_matches": 2,
+    "position_matches": 2
+   },
+   {
+    "player": "Test",
+    "guess": "16777",
+    "digit_matches": 3,
+    "position_matches": 2
+   },
+   {
+    "player": "Test",
+    "guess": "16788",
+    "digit_matches": 3,
+    "position_matches": 1
+   },
+   {
+    "player": "Test",
+    "guess": "16972",
+    "digit_matches": 3,
+    "position_matches": 1
+   },
+   {
+    "player": "Test",
+    "guess": "16347",
+    "digit_matches": 4,
+    "position_matches": 3
+   },
+   {
+    "player": "Test",
+    "guess": "16447",
+    "digit_matches": 3,
+    "position_matches": 2
+   }
+  ],
+  "players": [],
+  "turn_index": 0,
+  "game_over": true,
+  "winner": null,
+  "password_hash": "pbkdf2$cdb412eaa91cf79e$3c80d0bfe2d9a48dfefb69e2ba4cedac9baac74fe97282c056fa496547628f92",
+  "ever_joined": true,
+  "updated_at": "2026-08-25T06:53:53+00:00"
+ },
+ "FDNQAW": {
+  "secret_number": "53663",
+  "guesses": [],
+  "players": [
+   "Human",
+   "Newhuman"
+  ],
+  "turn_index": 0,
+  "game_over": false,
+  "winner": null,
+  "password_hash": "pbkdf2$cafe6d27c84a42bd$fe405375cca12123943f7b0d0f6ad0921feb7ab41a4d2c14d86628c5a5ff8cec",
+  "ever_joined": true,
+  "updated_at": "2026-08-25T07:42:57+00:00"
+ }
+}

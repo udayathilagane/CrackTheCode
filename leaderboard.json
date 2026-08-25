@@ -1,0 +1,72 @@
+[
+ {
+  "winner": null,
+  "secret_number": "32930",
+  "guesses_used": 10,
+  "players": [
+   "Aks"
+  ],
+  "room": "Y8RYSV",
+  "finished_at": "2026-08-24T13:30:59+00:00"
+ },
+ {
+  "winner": null,
+  "secret_number": "72940",
+  "guesses_used": 10,
+  "players": [
+   "u"
+  ],
+  "room": "AQLOYW",
+  "finished_at": "2026-08-24T13:37:55+00:00"
+ },
+ {
+  "winner": null,
+  "secret_number": "16635",
+  "guesses_used": 10,
+  "players": [
+   "Syed"
+  ],
+  "room": "XMXDET",
+  "finished_at": "2026-08-24T13:39:26+00:00"
+ },
+ {
+  "winner": null,
+  "secret_number": "77385",
+  "guesses_used": 10,
+  "players": [
+   "Syed"
+  ],
+  "room": "XMXDET",
+  "finished_at": "2026-08-24T13:50:30+00:00"
+ },
+ {
+  "winner": null,
+  "secret_number": "96212",
+  "guesses_used": 10,
+  "players": [
+   "Syed"
+  ],
+  "room": "XMXDET",
+  "finished_at": "2026-08-24T14:32:06+00:00"
+ },
+ {
+  "winner": null,
+  "secret_number": "13367",
+  "guesses_used": 10,
+  "players": [
+   "Test"
+  ],
+  "room": "NLGSAX",
+  "finished_at": "2026-08-25T06:53:39+00:00"
+ },
+ {
+  "winner": null,
+  "secret_number": "39045",
+  "guesses_used": 10,
+  "players": [
+   "Ak"
+  ],
+  "room": "FDNQAW",
+  "finished_at": "2026-08-25T07:37:34+00:00"
+ }
+]
