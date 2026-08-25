@@ -331,21 +331,8 @@ def clear_failures(ip):
 
 @app.before_request
 def gate():
-    """Nothing at all is served until the password has been entered.
-
-    Runs before every route, so no page or POST can be reached by guessing a
-    URL - the unlock form is the only thing an unauthenticated visitor sees.
-    """
-    if request.endpoint == 'unlock':
-        return None
-    record = access_record()
-    # Tying the session to the code's id means rotating the code signs
-    # everybody out, instead of only locking out people who never got in.
-    if record and session.get('unlocked') == record['id']:
-        return None
-    if request.method != 'GET':
-        return redirect(url_for('index'))
-    return render_page(locked=True)
+    """Access control disabled - game is now public."""
+    return None
 
 
 @app.after_request
